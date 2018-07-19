@@ -1,0 +1,16 @@
+{
+  "name": "blogenic/bnc_theme",
+  "description": "Base theme of Blogenic",
+  "type": "drupal-theme",
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "github",
+      "url": "https://github.com/blogenic/bnc_theme.git"
+    }
+  ],
+  "require": {
+    "blogenic/md_megamenu": "dev-master",
+    "drupal/bootstrap": "^3.11"
+  }
+}
