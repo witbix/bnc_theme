@@ -6,7 +6,7 @@
   "repositories": [
     {
       "type": "github",
-      "url": "https://github.com/blogenic/bnc_theme.git"
+      "url": "https://github.com/blogenic/md_megamenu.git"
     }
   ],
   "require": {
