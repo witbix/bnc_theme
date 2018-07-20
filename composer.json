@@ -5,6 +5,10 @@
   "minimum-stability": "dev",
   "repositories": [
     {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    },
+    {
       "type": "github",
       "url": "https://github.com/blogenic/awe_builder.git"
     },
@@ -14,7 +18,7 @@
     }
   ],
   "require": {
-    "blogenic/md_megamenu": "dev-master",
-    "drupal/bootstrap": "^3.11"
+    "drupal/bootstrap": "^3.11",
+    "blogenic/md_megamenu": "dev-bnc-theme"
   }
 }
