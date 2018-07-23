@@ -1,0 +1,11 @@
+{
+    "bnc":{
+        "name": "bnc",
+        "skin": [
+            "bnc/skin-1.css"
+        ],
+        "color":[
+            "bnc/color-1.css"
+        ]
+    }
+}

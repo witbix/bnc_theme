@@ -1,0 +1,14 @@
+.awemenu-bnc-color-1.awemenu-bnc.awemenu-nav, .awemenu-bnc-color-1.awemenu-bnc.awemenu-mobile {
+    background-color: blue;
+}
+.awemenu-bnc-color-1.awemenu-bnc.awemenu-nav .awemenu-dropdown .awemenu-item:hover > a {
+    color: blue;
+}
+.awemenu-bnc-color-1.awemenu-bnc .awemenu-outleft .awemenu,
+.awemenu-bnc-color-1.awemenu-bnc .awemenu-outright .awemenu,
+.awemenu-bnc-color-1.awemenu-bnc .awemenu-mobile .awemenu {
+    background-color: blue;
+}
+.awemenu-bnc-color-1.awemenu-bnc .awemenu-fullscreen-wrapper {
+    background-color: blue;
+}
