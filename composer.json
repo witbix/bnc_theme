@@ -1,6 +1,6 @@
 {
-  "name": "blogenic/bnc_theme",
-  "description": "Base theme of Blogenic",
+  "name": "witbix/bnc_theme",
+  "description": "A clean and light weight theme for blog ",
   "type": "drupal-theme",
   "minimum-stability": "dev",
   "repositories": [
@@ -10,15 +10,15 @@
     },
     {
       "type": "github",
-      "url": "https://github.com/blogenic/awe_builder.git"
+      "url": "https://github.com/witbix/awe_builder.git"
     },
     {
       "type": "github",
-      "url": "https://github.com/blogenic/md_megamenu.git"
+      "url": "https://github.com/witbix/md_megamenu.git"
     }
   ],
   "require": {
     "drupal/bootstrap": "^3.11",
-    "blogenic/md_megamenu": "dev-bnc-theme"
+    "witbix/md_megamenu": "dev-bnc-theme"
   }
 }
